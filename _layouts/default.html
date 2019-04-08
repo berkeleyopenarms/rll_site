@@ -23,7 +23,7 @@
         <div id="site_logo">{{site.title}}</div>
         <nav>
           <ul>
-          {%- assign pages = site.pages | sort: 'order' -%}
+          {%- assign pages = site.pages | sort: 'nav_order' -%}
           {%- for p in pages -%}
           {%- if p.layout == 'page' -%}
           {%- if page.url == p.url -%}
