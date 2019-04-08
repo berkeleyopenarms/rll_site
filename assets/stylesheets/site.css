@@ -1,0 +1,141 @@
+---
+layout: null
+---
+
+{% include_relative skeleton/css/normalize.css %}
+{% include_relative skeleton/css/skeleton.css %}
+
+body {
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-family: 'Noto Serif', Georgia, "Bitstream Charter", "Charis SIL", Utopia, "URW Bookman L", serif;
+    box-sizing: border-box;
+    color: #333;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #09c;
+}
+
+p {
+    margin-bottom: 2rem;
+}
+
+a:hover {
+    opacity: 0.4;
+}
+
+ul, ol {
+    list-style-position: outside;
+    padding-left: 1.5em;
+}
+
+li {
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5 {
+    font-size: 2.5em;
+    padding: 0 0 0.5em 0;
+    margin: 0;
+}
+
+h2, h3, h4, h5 {
+    font-size: 2em;
+}
+
+.wide {
+    max-width: 100%;
+    min-width: 30rem;
+    width: 100rem;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    background-color: rgba(0,123,191,1);
+}
+
+header .inner {
+    padding: 1em 1em 0 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#site_logo {
+    color: #fff;
+    margin-left: 1em;
+    font-size: 1.7em;
+}
+
+nav ul {
+    margin: 0 1em 0 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 1.5em;
+    position: relative;
+    line-height: 4em;
+}
+
+nav ul li.active:after {
+    content: '';
+    border: 0.5em solid transparent;
+    border-bottom-color: #fff;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a:link, nav ul li a:visited {
+    color: #fff;
+}
+
+main {
+    padding: 3em 2em 6em 2em;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 0 2rem 0;
+}
+iframe {
+    border: 1px solid #ddd;
+    width: 100%;
+    height: 40rem;
+    margin-bottom: 2rem;
+}
+
+@media (min-width: 550px) {
+    header .inner {
+        padding-top: 0;
+        flex-direction: row;
+    }
+
+    iframe {
+        height: 50rem;
+    }
+}
+@media (min-width: 1000px) {
+    iframe {
+        height: 60rem;
+    }
+}
+@media (min-width: 1400px) {
+    html {
+        font-size: 62.5%;
+    }
+}
