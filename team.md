@@ -3,7 +3,10 @@ layout: page
 title: Team
 nav_order: 80
 ---
-![stephen](https://imgur.com/a/TjkF1d4)
+
+
+<img src="https://imgur.com/a/TjkF1d4" alt="Kitten"
+	title="A cute kitten" width="150" />
 
 [David Gealy](https://www.linkedin.com/in/david-gealy-726741b7/)
 
