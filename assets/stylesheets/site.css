@@ -124,7 +124,7 @@ iframe {
 
 @media (min-width: 550px) {
     header .inner {
-        padding: 0 1em;
+        padding: 0 2em;
         flex-direction: row;
     }
 
