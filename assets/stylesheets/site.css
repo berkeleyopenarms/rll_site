@@ -68,6 +68,10 @@ header .inner {
     align-items: center;
 }
 
+header a:link, header a:visited {
+    color: #fff;
+}
+
 #site_logo {
     color: #fff;
     margin-left: 1em;
@@ -98,10 +102,6 @@ nav ul li.active:after {
 
 nav ul li:last-child {
     margin-right: 0;
-}
-
-nav ul li a:link, nav ul li a:visited {
-    color: #fff;
 }
 
 main {
