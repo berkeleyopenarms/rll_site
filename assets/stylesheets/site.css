@@ -89,7 +89,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    margin-right: 1em;
+    margin-right: 0.75em;
     position: relative;
     line-height: 4em;
 }
@@ -132,6 +132,14 @@ iframe {
     iframe {
         height: 40rem;
     }
+
+
+    nav ul li {
+        display: inline-block;
+        margin-right: 1em;
+        position: relative;
+        line-height: 4em;
+    }
 }
 @media (min-width: 1000px) {
     iframe {
@@ -140,6 +148,6 @@ iframe {
 }
 @media (min-width: 1400px) {
     html {
-        font-size: 62.5%;
+        font-size: 75%;
     }
 }
