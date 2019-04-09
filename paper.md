@@ -12,4 +12,6 @@ David V. Gealy, Stephen McKinley, Brent Yi, Philipp Wu,Phillip R. Downey, Greg B
 
 <iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview"></iframe>
 
+<div style="text-align: right">
 [view on arXiv](https://arxiv.org/abs/1904.03815)
+</div>
