@@ -48,9 +48,12 @@ h2, h3, h4, h5 {
     font-size: 2em;
 }
 
+body, .wide {
+    min-width: 35rem;  
+}
+
 .wide {
     max-width: 100%;
-    min-width: 35rem;
     width: 80rem;
     margin: 0 auto;
 }
