@@ -5,5 +5,5 @@ pwd
 while true; do
 git pull
 bundle exec jekyll build
-sleep 10
+sleep 5
 done
