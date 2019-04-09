@@ -13,23 +13,3 @@ David V. Gealy, Stephen McKinley, Brent Yi, Philipp Wu,Phillip R. Downey, Greg B
 <iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview"></iframe>
 
 [view on arXiv](https://arxiv.org/abs/1904.03815)
-<!-- 
-Two column layout
-
-<div class="row">
-   <div class="four columns" markdown="1">
-   **Robot specifications:**
-
-   - Blah blah blah
-   - Blah blah blah
-   - Blah blah blah
-   - Blah blah blah
-   - Blah blah blah
-   - Blah blah blah
-   </div>
-   <div class="eight columns">
-      <iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview"></iframe>
-   </div>
-</div>
-
--->
