@@ -20,5 +20,5 @@ In a [paper]({{ '/paper' | relative_url }}) to be presented at the IEEE Internat
 
 Next up for the project is continued stress testing and ramping manufacturing.  From there, the goal is to get these affordable robots into as many researchers’ hands as possible.
 
-Prototypes of BLUE have already been shipped to early adopters through the organization Berkeley Open Arms. If you’re interested in getting a BLUE robot for yourself, [sign up]({{ '/contact' | relative_url }}) to get updates as well as priority access!
+Prototypes of BLUE have already been shipped to early adopters through the organization Berkeley Open Arms. If you’re interested in getting a BLUE robot for yourself, [fill out our interest form]({{ '/contact' | relative_url }}) to get updates as well as priority access!
 
