@@ -4,7 +4,7 @@ title: Meet Blue
 nav_order: 1
 ---
 
-<iframe src="https://www.youtube.com/embed/b0evlW7WrFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/KZ88hPgrZzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Within UC Berkeley’s Robot Learning Lab, we have been developing AI for robotic learning and control, seeking to answer the question:
 

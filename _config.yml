@@ -18,13 +18,13 @@ email: brentyi@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
   BLUE is a low-cost, high-performance robot that is intrinsically safe, developed from the ground up with ever-increasing Artificial Intelligence capabilities in mind.
 baseurl: "/blue" # the subpath of your site, e.g. /blog
-url: https://brentyi.com # the base hostname & protocol for your site, e.g. http://example.com
-host: brentyi.com
+url: http://rll.berkeley.edu # the base hostname & protocol for your site, e.g. http://example.com
+host: rll.berkeley.edu
 permalink: /:categories/:year/:month/:day/:title/
 
 # Tracking
 matomo_url: brentyi.com/piwik
-matomo_site_id: 0
+matomo_site_id: 4
 
 # Build settings
 markdown: kramdown
