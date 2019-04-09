@@ -77,19 +77,18 @@ header a:link, header a:visited {
 
 #site_logo {
     color: #fff;
-    margin-left: 1em;
     font-size: 1.7em;
 }
 
 nav ul {
-    margin: 0 1em 0 0;
+    margin: 0;
     list-style: none;
     padding: 0;
 }
 
 nav ul li {
     display: inline-block;
-    margin-right: 0.75em;
+    margin-right: 0.5em;
     position: relative;
     line-height: 4em;
 }
@@ -125,7 +124,7 @@ iframe {
 
 @media (min-width: 550px) {
     header .inner {
-        padding-top: 0;
+        padding: 0 1em;
         flex-direction: row;
     }
 
