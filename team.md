@@ -6,12 +6,8 @@ nav_order: 80
 
 
 <img src="https://imgur.com/lrHilM9.jpg" width="600">
-Our current team - many have graduated :)
+Our current team - many have already graduated :)
 
-<figure>
-  <img src="https://imgur.com/lrHilM9.jpg" width="600">
-  <figcaption> our current team - many have already graduated :) </figcaption>
-</figure> 
 
 [David Gealy](https://www.linkedin.com/in/david-gealy-726741b7/)
 
