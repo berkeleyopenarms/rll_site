@@ -5,7 +5,7 @@ nav_order: 80
 ---
 
 
-![steve](https://imgur.com/KlHFwGl.jpg)
+<img src="https://imgur.com/KlHFwGl.jpg" width="200">
 
 [David Gealy](https://www.linkedin.com/in/david-gealy-726741b7/)
 
