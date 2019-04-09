@@ -20,7 +20,7 @@
     <!-- Header -->
     <header>
       <div class="inner wide">
-        <div id="site_logo">{{site.title}}</div>
+        <div id="site_logo"><a href="{{ site.baseurl }}">{{site.title}}</a></div>
         <nav>
           <ul>
           {%- assign pages = site.pages | sort: 'nav_order' -%}
