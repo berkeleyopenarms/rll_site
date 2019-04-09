@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Github
+title: GitHub
 redirect_to: https://github.com/berkeleyopenarms
 nav_order: 85
 ---
