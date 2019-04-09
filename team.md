@@ -3,7 +3,7 @@ layout: page
 title: Team
 nav_order: 80
 ---
-![stephen](https://photos.app.goo.gl/QGyB3pnMYaY9LpYb8)
+![stephen](https://imgur.com/a/TjkF1d4)
 
 [David Gealy](https://www.linkedin.com/in/david-gealy-726741b7/)
 
