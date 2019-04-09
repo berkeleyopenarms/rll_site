@@ -5,10 +5,6 @@ nav_order: 80
 ---
 
 
-<img src="https://imgur.com/lrHilM9.jpg" width="600">
-
-Our current team - many have already graduated :)
-
 <figure>
  <img src="https://imgur.com/lrHilM9.jpg" width="600"/>
  <figcaption>
