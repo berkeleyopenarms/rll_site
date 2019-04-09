@@ -14,7 +14,7 @@ For Project BLUE, we instead turned our attention towards developing robots for 
 
 > *“How can AI change the robot design paradigm?”*
 
-After a three year multidisciplinary effort across a team of more than 15 researchers, we’ve designed, built, and tested BLUE - the Berkeley robot for Learning in Unstructured Environments. BLUE is a low-cost, high-performance robot that is intrinsically safe, developed from the ground up with ever-increasing Artificial Intelligence capabilities in mind.
+After a three year effort across a team of more than 15 multidisciplinary researchers, we’ve designed, built, and tested **BLUE** - the Berkeley robot for Learning in Unstructured Environments. BLUE is a low-cost, high-performance robot that is intrinsically safe, developed from the ground up with ever-increasing Artificial Intelligence capabilities in mind.
 
 In a [paper]({{ '/paper' | relative_url }}) to be presented at the IEEE International Conference on Robotics and Automation in Montreal in May, we describe the key design criteria, trade-offs, and actuation performance for BLUE.
 
