@@ -5,8 +5,7 @@ nav_order: 80
 ---
 
 
-<img src="https://imgur.com/a/TjkF1d4" alt="Kitten"
-	title="A cute kitten" width="150" />
+![steve](https://imgur.com/KlHFwGl)
 
 [David Gealy](https://www.linkedin.com/in/david-gealy-726741b7/)
 
